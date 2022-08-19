@@ -1,6 +1,6 @@
 class login:
     def __init__(self,id,pas):
-        self.id="admin"
+        self.id="adminnn"
         self.pas="admin"
 
     def check(id,pas):
